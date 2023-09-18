@@ -21,12 +21,14 @@
 \contentsline {section}{\numberline {3.4}Metodología de Trabajo}{6}{}%
 \contentsline {subsection}{\numberline {3.4.1}Metodología Prototipo}{7}{}%
 \contentsline {subsubsection}{Arquitectura y Usabilidad}{7}{}%
-\contentsline {section}{\numberline {3.5}Duración del Proyecto y Grantt Preliminar}{7}{}%
-\contentsline {chapter}{\numberline {4}Propiedad Intelectual}{8}{}%
-\contentsline {chapter}{\numberline {5}Presentación de la Empresa}{9}{}%
-\contentsline {section}{\numberline {5.1}Identificación de la Empresa}{9}{}%
-\contentsline {section}{\numberline {5.2}Representante Legal}{9}{}%
-\contentsline {section}{\numberline {5.3}Descripción}{9}{}%
-\contentsline {section}{\numberline {5.4}Nuestra Propuesta de Valor}{9}{}%
-\contentsline {section}{\numberline {5.5}Proyectos y servicios recientes}{9}{}%
-\contentsline {section}{\numberline {5.6}Clientes recientes}{9}{}%
+\contentsline {subsubsection}{Diseño}{7}{}%
+\contentsline {subsubsection}{Front End}{7}{}%
+\contentsline {section}{\numberline {3.5}Duración del Proyecto y Grantt Preliminar}{8}{}%
+\contentsline {chapter}{\numberline {4}Propiedad Intelectual}{9}{}%
+\contentsline {chapter}{\numberline {5}Presentación de la Empresa}{10}{}%
+\contentsline {section}{\numberline {5.1}Identificación de la Empresa}{10}{}%
+\contentsline {section}{\numberline {5.2}Representante Legal}{10}{}%
+\contentsline {section}{\numberline {5.3}Descripción}{10}{}%
+\contentsline {section}{\numberline {5.4}Nuestra Propuesta de Valor}{10}{}%
+\contentsline {section}{\numberline {5.5}Proyectos y servicios recientes}{10}{}%
+\contentsline {section}{\numberline {5.6}Clientes recientes}{10}{}%
