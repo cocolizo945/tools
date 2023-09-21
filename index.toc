@@ -7,7 +7,7 @@
 \contentsline {section}{\numberline {2.2}Experiencia en Proyectos}{3}{}%
 \contentsline {section}{\numberline {2.3}Niveles de Servicio}{3}{}%
 \contentsline {section}{\numberline {2.4}Cumplimiento de Políticas y/o Programas de Sustentabilidad}{3}{}%
-\contentsline {section}{\numberline {2.5}Cumplimiento de Requisitos Formales}{3}{}%
+\contentsline {section}{\numberline {2.5}Cumplimiento de Requisitos Formales}{4}{}%
 \contentsline {section}{\numberline {2.6}Garantía de Software}{4}{}%
 \contentsline {section}{\numberline {2.7}Componente técnico}{4}{}%
 \contentsline {section}{\numberline {2.8}Encargado Técnico}{4}{}%
@@ -19,18 +19,15 @@
 \contentsline {subsection}{\numberline {3.3.1}Análisis y Diseño}{6}{}%
 \contentsline {subsection}{\numberline {3.3.2}Construcción}{6}{}%
 \contentsline {section}{\numberline {3.4}Metodología de Trabajo}{6}{}%
-\contentsline {subsection}{\numberline {3.4.1}Metodología Prototipo}{6}{}%
+\contentsline {subsection}{\numberline {3.4.1}Metodología Prototipo}{7}{}%
 \contentsline {subsubsection}{Arquitectura y Usabilidad}{7}{}%
 \contentsline {subsubsection}{Diseño}{7}{}%
 \contentsline {subsubsection}{Front End}{7}{}%
-\contentsline {section}{\numberline {3.5}Duración del Proyecto y Grantt Preliminar}{7}{}%
-\contentsline {subsection}{\numberline {3.5.1}Plazo}{7}{}%
-\contentsline {subsection}{\numberline {3.5.2}Grantt Preliminar del proyecto}{8}{}%
+\contentsline {section}{\numberline {3.5}Duración del Proyecto y Grantt Preliminar}{8}{}%
+\contentsline {subsection}{\numberline {3.5.1}Plazo}{8}{}%
 \contentsline {chapter}{\numberline {4}Propiedad Intelectual}{9}{}%
 \contentsline {chapter}{\numberline {5}Presentación de la Empresa}{10}{}%
 \contentsline {section}{\numberline {5.1}Identificación de la Empresa}{10}{}%
 \contentsline {section}{\numberline {5.2}Representante Legal}{10}{}%
 \contentsline {section}{\numberline {5.3}Descripción}{10}{}%
-\contentsline {section}{\numberline {5.4}Nuestra Propuesta de Valor}{10}{}%
-\contentsline {section}{\numberline {5.5}Proyectos y servicios recientes}{10}{}%
-\contentsline {section}{\numberline {5.6}Clientes recientes}{10}{}%
+\contentsline {section}{\numberline {5.4}Nuestra Propuesta de Valor}{11}{}%
